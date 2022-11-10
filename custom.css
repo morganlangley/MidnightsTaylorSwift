@@ -1,0 +1,108 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+body{
+    background-color:#06000c;
+    background-image: url(nightsky.png);
+}
+.navbar{
+    background-color:#06000c ;
+    
+}
+.navbar-toggler-icon{
+    color: aliceblue;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.albumart{
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.logo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+.nav-link{
+ color: aliceblue;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    font-weight: bolder; 
+    color: antiquewhite; 
+    text-align: center;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    font-weight: bolder; 
+    color: #a9d5f2; 
+    text-align: center;   
+}
+.tracks{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 25px; 
+    text-align: center;
+    color: #d2e5f2;
+    list-style: none;
+    font-weight: bolder;
+}   
+.card-text{
+    color: #a9d5f2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+}
+.navbar-toggler{
+    color: aliceblue;
+}
+.roundedfloat-start{
+    margin-right: 10px;
+    border: 10px antiquewhite;
+}
+.albumtext{
+padding: 3px;
+color: aliceblue;
+margin-left: 10px;
+font-weight: 400;
+}
+
+.lead{
+    color: aliceblue;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bolder;
+}
+
+.vinyl{
+    align-content: center;
+}
+.card{
+    background-color: #06000c;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2 !important;
+    border-color: #06000c;
+}
+
+.tour{
+    padding: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .card-title{
+    color: #8064A2;
+  }
+h6{
+    color: #06000c;
+}
